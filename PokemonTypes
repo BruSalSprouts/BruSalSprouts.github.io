@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+  <head> Small Web Application for Pokémon Types</head>
+  <p> AKA My first time making something that can be used from a website </p>
+  <p> Since I haven't ever really made a web application, why not start small with something like a pokémon type assist? <br>
+      You select a type and it tells you what moves are super effective against that type and what moves are weak against that type <br>
+      It's pretty simple really </p>
+  <h2> Under construction until the actual application itself is able to be put on here </h2>
+</html>
